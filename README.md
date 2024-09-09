@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/your-instagram">
   <img align="left" alt="Pasindu's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
-<a href="https://twitter.com/your-twitter">
+<a href="https://twitter.com/https://x.com/PasinduJayakodi">
   <img align="left" alt="Pasindu's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
