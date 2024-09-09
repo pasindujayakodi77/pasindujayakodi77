@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/pasindu_jaye/">
   <img align="left" alt="Pasindu's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
-<a href="[https://x.com/PasinduJayakodi">
-  <img align="left" alt="Pasindu's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+<a href="https://x.com/PasinduJayakodi">
+  <img align="left" alt="Pasindu's X" width="24px" src="https://img.icons8.com/nolan/96/X.png" />
 </a>
 
 <br />
