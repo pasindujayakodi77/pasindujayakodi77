@@ -27,7 +27,6 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code> C#  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code> MongoDB  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> Android Studio  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code> Git  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code> MySQL  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code> HTML5  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code> CSS3  
