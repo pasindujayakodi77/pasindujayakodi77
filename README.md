@@ -22,11 +22,17 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> Git
+<code><img height="40" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="40" src="https://img.icons8.com/nolan/96/java.png"></code> Java
+<code><img height="40" src="https://img.icons8.com/nolan/96/c-sharp-logo.png"></code> C#
+<code><img height="40" src="https://img.icons8.com/nolan/96/mongodb.png"></code> MongoDB
+<code><img height="40" src="https://img.icons8.com/nolan/96/android-os.png"></code> Android Studio
+<code><img height="40" src="https://img.icons8.com/nolan/96/git.png"></code> Git
+<code><img height="40" src="https://img.icons8.com/nolan/96/mysql.png"></code> MySQL
+<code><img height="40" src="https://img.icons8.com/nolan/96/html-5.png"></code> HTML5
+<code><img height="40" src="https://img.icons8.com/nolan/96/css3.png"></code> CSS3
+<code><img height="40" src="https://img.icons8.com/nolan/96/javascript.png"></code> JavaScript
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Pasindu's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindujayakodi77&count_private=true&theme=radical" alt="Pasindu Jayakodi" />
