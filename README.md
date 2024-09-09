@@ -1,6 +1,6 @@
 <h2 title="Welcome"> Hey 👋, I'm Pasindu Jayakodi!</h2>
 
-<a href="https://www.linkedin.com/in/pasindu-jayakodi">
+<a href="www.linkedin.com/in/pasindu-jayakodi-55164831a">
   <img align="left" alt="Pasindu's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/pasindu_jaye/">
