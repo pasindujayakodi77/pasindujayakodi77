@@ -18,8 +18,7 @@
 - 💬 Ask me about programming, mobile apps, or machine learning.
 - 📫 How to reach me
   Email: [pasindujaya687@gmail.com](mailto:pasindujaya687@gmail.com)
-- ⚡ Fun fact
-- I think I am funny 😂
+- ⚡ Fun fact  I think I am funny 😂
 
 **Languages and Tools:**  
 
