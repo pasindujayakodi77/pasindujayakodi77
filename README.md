@@ -15,7 +15,7 @@
 
 - 👨🏽‍💻 I’m currently a 3rd-year Information Technology undergraduate at the University of Moratuwa, Sri Lanka.
 - 🌱 I’m currently exploring **AI**, **Machine Learning**, and **Mobile App Development**.
-- 💬 Ask me about programming, mobile apps, or machine learning.
+-  💬 Ask me about **Python** or **Android Studio**.
 - 📫 How to reach me
   Email: [pasindujaya687@gmail.com](mailto:pasindujaya687@gmail.com)
 - ⚡ Fun fact - I think I am funny 😂
