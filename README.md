@@ -34,9 +34,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Pasindu's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindujayakodi77&count_private=true&theme=radical" alt="Pasindu Jayakodi" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&count_private=true&theme=radical" alt="Pasindu Jayakodi" />
 
 -----
 Credits: [Pasindu Jayakodi](https://github.com/pasindujayakodi77)
