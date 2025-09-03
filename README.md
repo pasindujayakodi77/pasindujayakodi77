@@ -15,21 +15,18 @@
 
 - 👨🏽‍💻 I’m currently a 3rd-year Information Technology undergraduate at the University of Moratuwa, Sri Lanka.
 - 🌱 I’m currently exploring **AI**, **Machine Learning**, and **Mobile App Development**.
--  💬 Ask me about **Python** or **Android Studio**.
+-  💬 Ask me about **Flutter** or **Android Studio/VS Code**.
 - 📫 How to reach me
   Email: [pasindujaya687@gmail.com](mailto:pasindujaya687@gmail.com)
 - ⚡ Fun fact - I think I am funny 😂
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code> Python  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> Java  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code> C#  
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/flutter-original.svg"></code> flutter  
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/dart-original.svg"></code> Dart  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code> MongoDB  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> Android Studio  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code> MySQL  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code> HTML5  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code> CSS3  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code> JavaScript  
 
 
