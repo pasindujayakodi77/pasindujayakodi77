@@ -31,7 +31,7 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code> JavaScript  
 
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&count_private=true&theme=radical" alt="Pasindu Jayakodi" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&count_private=true&theme=radical&cache_seconds=1800" alt="Pasindu Jayakodi" />
 
 
 
