@@ -1,41 +1,79 @@
-<h2 title="Welcome"> Hey 👋, I'm Pasindu Jayakodi!</h2>
+<!-- Profile Header -->
+<div align="center">
+  <h1 title="Welcome">Hey 👋, I'm Pasindu Jayakodi</h1>
+  <p><strong>3rd-year IT undergraduate · University of Moratuwa</strong></p>
 
-<a href="https://www.linkedin.com/in/pasindu-jayakodi-55164831a/">
-  <img align="left" alt="Pasindu's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/pasindu_jaye/">
-  <img align="left" alt="Pasindu's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<br />
-<br />
+  <!-- Social -->
+  <a href="https://www.linkedin.com/in/pasindu-jayakodi-55164831a/">
+    <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/pasindu_jaye/">
+    <img alt="Instagram" height="28" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:pasindujaya687@gmail.com">
+    <img alt="Email" height="28" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white">
+  </a>
+</div>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<br/>
 
-**About Me!**
+<!-- Intro -->
+<p align="center">
+  I enjoy building mobile apps with Flutter, learning practical machine learning, and shaping ideas into working software.
+</p>
 
-- 👨🏽‍💻 I’m currently a 3rd-year Information Technology undergraduate at the University of Moratuwa, Sri Lanka.
-- 🌱 I’m currently exploring **AI**, **Machine Learning**, and **Mobile App Development**.
--  💬 Ask me about **Flutter** or **Android Studio/VS Code**.
-- 📫 How to reach me
-  Email: [pasindujaya687@gmail.com](mailto:pasindujaya687@gmail.com)
-- ⚡ Fun fact - I think I am funny 😂
+<!-- Hero Image -->
+<img align="right" width="260" alt="Coding GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-**Languages and Tools:**  
+## About me
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code> Flutter  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code> Dart   
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code> Firebase  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code> MongoDB  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> Android Studio  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code> HTML5  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code> JavaScript  
+- 🎓 3rd-year Information Technology undergraduate at the University of Moratuwa, Sri Lanka  
+- 🌱 Exploring **AI**, **Machine Learning**, and **Mobile App Development**  
+- 💬 Ask me about **Flutter** and **Android Studio / VS Code**  
+- 📫 Email: **pasindujaya687@gmail.com**  
+- ⚡ Fun fact: I like to think I am funny 😄
 
+## Languages and tools
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&count_private=true&theme=radical&cache_seconds=1800" alt="Pasindu Jayakodi" />
+<!-- Icon row using Devicon for crisp, consistent branding -->
+<p>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+</p>
 
+<!-- Optional badges row for quick glance -->
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
+</p>
 
+## GitHub overview
 
------
-Credits: [Pasindu Jayakodi](https://github.com/pasindujayakodi77)
+<!-- Top languages and stats side by side -->
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+</div>
 
+<!-- Streak card is optional. Uncomment if you like it. -->
+<!--
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=pasindujayakodi77&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+</div>
+-->
 
+---
+
+<div align="center">
+  <sub>Credits: <a href="https://github.com/pasindujayakodi77">Pasindu Jayakodi</a></sub>
+</div>
