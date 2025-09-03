@@ -23,7 +23,8 @@
 **Languages and Tools:**  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code> Flutter  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code> Dart    
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code> Dart   
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code> Firebase  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code> MongoDB  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> Android Studio  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code> HTML5  
