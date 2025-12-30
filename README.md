@@ -67,9 +67,18 @@
 
 <!-- Top languages and stats side by side -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+  />
 </div>
+
 
 <!-- Streak card is optional. Uncomment if you like it. -->
 <!--
