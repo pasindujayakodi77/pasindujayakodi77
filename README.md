@@ -19,7 +19,7 @@
 
 <!-- Intro -->
 <p align="center">
-  I enjoy building mobile apps with Flutter, learning practical machine learning, and shaping ideas into working software.
+  I enjoy building mobile apps with Flutter, full-stack web applications with MERN, learning practical machine learning, and shaping ideas into working software.
 </p>
 
 <!-- Hero Image -->
@@ -28,7 +28,7 @@
 ## About me
 
 - 🎓 3rd-year Information Technology undergraduate at the University of Moratuwa, Sri Lanka  
-- 🌱 Exploring **AI**, **Machine Learning**, and **Mobile App Development**  
+- 🌱 Exploring **AI**, **Machine Learning**, **Mobile App Development**, and **Full-Stack Web Development**  
 - 💬 Ask me about **Flutter** and **Android Studio / VS Code**  
 - 📫 Email: **pasindujaya687@gmail.com**  
 - ⚡ Fun fact: I like to think I am funny 😄
@@ -43,6 +43,9 @@
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
@@ -54,6 +57,9 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
 </p>
 
