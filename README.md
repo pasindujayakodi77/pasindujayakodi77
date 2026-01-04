@@ -60,20 +60,6 @@ I enjoy working across **mobile, full-stack web, and practical AI**, focusing on
 
 ---
 
-## 📈 GitHub Overview
-
-<div align="center">
-  
-[![GitHub Stats](https://img.shields.io/badge/Profile-pasindujayakodi77-181717?style=for-the-badge&logo=github)](https://github.com/pasindujayakodi77)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pasindujayakodi77&query=$.public_repos&label=Repositories&style=for-the-badge&logo=github&color=blue)](https://github.com/pasindujayakodi77?tab=repositories)
-
-**💡 My best work is in my pinned repositories!**
-
-</div>
-
-
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -89,6 +75,14 @@ I enjoy working across **mobile, full-stack web, and practical AI**, focusing on
 - 🌱 Teams that value clean code, collaboration, and continuous learning
 
 ---
+<div align="center">
+  
+[![GitHub Stats](https://img.shields.io/badge/Profile-pasindujayakodi77-181717?style=for-the-badge&logo=github)](https://github.com/pasindujayakodi77)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pasindujayakodi77&query=$.public_repos&label=Repositories&style=for-the-badge&logo=github&color=blue)](https://github.com/pasindujayakodi77?tab=repositories)
+
+**💡 My best work is in my pinned repositories!**
+
+</div>
 
 <div align="center">
   <sub>© Pasindu Jayakodi · Built with ❤️ and curiosity</sub>
