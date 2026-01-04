@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <h1>Hi 👋, I'm Pasindu Jayakodi</h1>
-  <p><strong>3rd-year IT Undergraduate · University of Moratuwa</strong></p>
+  <p><strong>IT Undergraduate </strong></p>
 
   <a href="https://www.linkedin.com/in/pasindu-jayakodi-55164831a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28"/>
