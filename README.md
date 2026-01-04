@@ -63,14 +63,12 @@ I enjoy working across **mobile, full-stack web, and practical AI**, focusing on
 ## 📈 GitHub Overview
 
 <div align="center">
-  <a href="https://github.com/pasindujayakodi77">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindujayakodi77&theme=radical&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+       alt="GitHub Stats"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical&langs_count=8"
+       alt="Top Languages"/>
 </div>
 
 ---
