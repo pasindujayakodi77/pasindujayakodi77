@@ -63,12 +63,21 @@ I enjoy working across **mobile, full-stack web, and practical AI**, focusing on
 ## 📈 GitHub Overview
 
 <div align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-       alt="GitHub Stats"/>
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical&langs_count=8"
-       alt="Top Languages"/>
+  
+[![GitHub Stats](https://img.shields.io/badge/Profile-pasindujayakodi77-181717?style=for-the-badge&logo=github)](https://github.com/pasindujayakodi77)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pasindujayakodi77&query=$.public_repos&label=Repositories&style=for-the-badge&logo=github&color=blue)](https://github.com/pasindujayakodi77?tab=repositories)
+
+**💡 My best work is in my pinned repositories!**
+
+</div>
+
+
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindujayakodi77&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
