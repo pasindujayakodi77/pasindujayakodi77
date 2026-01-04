@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **3rd-year Information Technology undergraduate** passionate about building **real-world software products**.  
+I’m a ** Information Technology undergraduate** passionate about building **real-world software products**.  
 I enjoy working across **mobile, full-stack web, and practical AI**, focusing on clean code, usability, and scalability.
 
 - 🎓 University of Moratuwa, Sri Lanka  
@@ -63,12 +63,14 @@ I enjoy working across **mobile, full-stack web, and practical AI**, focusing on
 ## 📈 GitHub Overview
 
 <div align="center">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical"
-       alt="Top Languages"/>
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical"
-       alt="GitHub Stats"/>
+  <a href="https://github.com/pasindujayakodi77">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasindujayakodi77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindujayakodi77&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayakodi77&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
